@@ -1,16 +1,19 @@
-import React from 'react'
-import Navbar from '../component/Navbar'
-import Banner from '../component/Banner'
-import Footer from '../component/Footer'
-import Freebook from '../component/Freebook'
+
+import React from "react";
+import Navbar from "../components/Navbar";
+import Banner from "../components/Banner";
+import Freebook from "../components/Freebook";
+import Footer from "../components/Footer";
+
 function Home() {
-  return (<>
-    <Navbar></Navbar>
-    <Banner></Banner>
-    <Freebook></Freebook>
-    <Footer></Footer>
-  </>
-  )
+  return (
+    <>
+      <Navbar />
+      <Banner />
+      <Freebook />
+      <Footer />
+    </>
+  );
 }
 
-export default Home
+export default Home;

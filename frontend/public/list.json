@@ -1,82 +1,50 @@
 [
   {
-    "id": 1,
-    "name": "story Book",
-    "title": "Storybook is an open-source UI development tool for building, testing, and documenting components in isolation for faster, scalable development",
-    "price": 0,
-    "categeory": "Free",
-    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg"
-  },
-  {
-    "id": 2,
-    "name": "story Book",
-    "title": "Storybook is an open-source UI development tool for building, testing, and documenting components in isolation for faster, scalable development",
-    "price": 0,
-    "categeory": "price",
-    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg"
-  },
-  {
-    "id": 3,
-    "name": "story Book",
-    "title": "Storybook is an open-source UI development tool for building, testing, and documenting components in isolation for faster, scalable development",
-    "price": 0,
-    "categeory": "Free",
-    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg"
-  },
-  {
-    "id": 4,
-    "name": "story Book",
-    "title": "Storybook is an open-source UI development tool for building, testing, and documenting components in isolation for faster, scalable development",
-    "price": 0,
-    "categeory": "Free",
-    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg"
-  },
-  {
     "id": 5,
-    "name": "story Book",
-    "title": "Storybook is an open-source UI development tool for building, testing, and documenting components in isolation for faster, scalable development",
+    "name": "Mindfulness Techniques",
+    "title": "Unlock the power of mindfulness with this book that teaches practical techniques for stress relief, focus, and emotional well-being. Learn how to live in the present moment and embrace a calmer, more balanced lifestyle with simple yet effective mindfulness exercises.",
     "price": 0,
-    "categeory": "Free",
-    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg"
+    "categeory": "FREE",
+    "image": "https://nidariablog.com/wp-content/uploads/2024/05/5-Life-Changing-Mindfulness-techniques-to-Crush-Daily-Stress-1.png"
   },
   {
     "id": 6,
-    "name": "story Book",
-    "title": "Storybook is an open-source UI development tool for building, testing, and documenting components in isolation for faster, scalable development",
+    "name": "Creative Writing Guide",
+    "title": "Develop your writing skills with this guide to creative expression. It includes tips, prompts, and techniques for crafting compelling stories, poems, and essays. Whether you're an aspiring author or just looking to explore your creativity, this book is the perfect starting point.",
     "price": 0,
-    "categeory": "Free",
-    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg"
+    "categeory": "FREE",
+    "image": "https://images.booksense.com/images/785/250/9781088250785.jpg"
   },
   {
     "id": 7,
-    "name": "story Book",
-    "title": "Storybook is an open-source UI development tool for building, testing, and documenting components in isolation for faster, scalable development",
+    "name": "World Cuisine Recipes",
+    "title": "Embark on a culinary journey with this collection of delicious recipes from around the globe. This book introduces you to flavors, techniques, and ingredients from various cultures, making it easy to bring international cuisine to your kitchen and impress your family and friends.",
     "price": 0,
-    "categeory": "Free",
-    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg"
+    "categeory": "FREE",
+    "image": "https://media.newyorker.com/photos/5d29019ab28c9b0008243c1b/master/w_1600%2Cc_limit/Rosner-Cookbooks-FeastIslamicWorld.jpg"
   },
   {
     "id": 8,
-    "name": "story Book",
-    "title": "Storybook is an open-source UI development tool for building, testing, and documenting components in isolation for faster, scalable development",
+    "name": "Travel Photography",
+    "title": "Learn how to capture stunning travel photos with this beginner-friendly guide. It covers essential photography techniques, tips for choosing the right equipment, and how to tell compelling stories through images. Perfect for anyone passionate about travel and documenting their adventures.",
     "price": 0,
-    "categeory": "Free",
-    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg"
+    "categeory": "FREE",
+    "image": "https://m.media-amazon.com/images/I/71cVz11ligL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "id": 9,
-    "name": "story Book",
-    "title": "Storybook is an open-source UI development tool for building, testing, and documenting components in isolation for faster, scalable development",
+    "name": "Fitness for Beginners",
+    "title": "Start your fitness journey with this beginner's guide that covers simple workout routines, nutrition tips, and strategies to stay motivated. This book makes it easy to build a healthier lifestyle, improve physical strength, and develop good habits that last a lifetime.",
     "price": 0,
-    "categeory": "Free",
-    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg"
+    "categeory": "FREE",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631831843i/59010989.jpg"
   },
   {
     "id": 10,
-    "name": "story Book",
-    "title": "Storybook is an open-source UI development tool for building, testing, and documenting components in isolation for faster, scalable development",
+    "name": "Personal Finance Basics",
+    "title": "Master the fundamentals of personal finance with this comprehensive guide. Learn how to budget, save, and invest wisely, while avoiding common financial pitfalls. This book is designed to help you achieve financial independence and secure a better future for yourself and your family.",
     "price": 0,
-    "categeory": "Free",
-    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg"
+    "categeory": "FREE",
+    "image": "https://thecfoclub.com/wp-content/uploads/sites/12/2023/10/Rich-Dad-Poor-Dad-What-the-Rich-Teach-Their-Kids-About-Money-That-the-Poor-and-Middle-Class-Do-Not-finance-book-for-beginners.jpg"
   }
 ]
