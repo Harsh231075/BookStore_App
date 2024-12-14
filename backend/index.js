@@ -8,7 +8,11 @@ import userRoute from "./route/user.route.js";
 
 const app = express();
 
-app.use(cors());
+app.use(cors(
+  {
+    origin: process.env.FRONTEND_URL || "*"
+  }
+));
 app.use(express.json());
 
 dotenv.config();
@@ -18,10 +22,7 @@ const URI = process.env.MongoDBURI;
 
 // connect to mongoDB
 try {
-  mongoose.connect(URI, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  });
+  await mongoose.connect(URI);
   console.log("Connected to mongoDB");
 } catch (error) {
   console.log("Error: ", error);
